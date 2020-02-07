@@ -1,5 +1,5 @@
 # IGB-Greyhound-Position-Prediction
-This objective of this project is to predict the position of the greyhound based on the other fields and estimated time taken by the greyhound to finish the race.
+The objective of this project is to predict the position of the greyhound based on the other fields and estimated time taken by the greyhound to finish the race.
 The workflow of the project is as follows:
 1. **Acquire data:**
 Make http requests to the website, to download the html data
