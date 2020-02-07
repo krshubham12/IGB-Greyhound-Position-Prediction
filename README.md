@@ -12,7 +12,7 @@ We are estimating the race finish time of Greyhound using ANN.
 
 ## Technologies Used
 
-### Machine Learning Library:
+### Libraries:
 * pandas
 * urllib3
 * Keras
